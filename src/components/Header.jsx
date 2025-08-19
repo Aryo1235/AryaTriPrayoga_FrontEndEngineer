@@ -49,7 +49,7 @@ export default function Header() {
             : "bg-sky-50 text-sky-600"
         }`}
       >
-        <div className="max-w-[1300px] mx-auto px-4 md:px-2">
+        <div className="max-w-[1300px] mx-auto px-4 md:px-4">
           <div className="flex justify-between h-16 items-center">
             {/* Brand Logo*/}
             <a

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function HeroSection() {
   return (
-    <div className="relative rounded-lg max-w-7xl mx-auto px-4 py-16 flex flex-col gap-2 justify-center items-center md:h-[520px] md:py-0">
+    <div className="relative rounded-lg max-w-[400px]  sm:max-w-6xl md:max-w-7xl mx-auto px-4 py-16 flex flex-col gap-2 justify-center items-center md:h-[520px] md:py-0 md:px-0">
       {/* Background Image */}
       <div
         className="absolute inset-0 bg-cover bg-center rounded-lg"

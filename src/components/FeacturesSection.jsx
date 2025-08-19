@@ -24,7 +24,7 @@ export default function FeaturesSection() {
   ];
 
   return (
-    <section className="relative bg-white py-20 font-sans">
+    <section id="fitur" className="relative bg-white py-20 font-sans">
       <div className="max-w-6xl mx-auto px-6 text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-sky-900 mb-12">
           Kenapa Harus Ikut Kelas Ini?

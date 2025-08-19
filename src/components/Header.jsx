@@ -4,9 +4,9 @@ import { GiHamburgerMenu } from "react-icons/gi";
 export default function Header() {
   const navItems = [
     { name: "Home", path: "/" },
-    { name: "About", path: "/about" },
-    { name: "Contact", path: "/contact" },
-    { name: "Services", path: "/services" },
+    { name: "Features", path: "#fitur" },
+    { name: "Testimonials", path: "#testimonials" },
+    { name: "Contact", path: "#contact" },
   ];
 
   const [isOpen, setIsOpen] = useState(false);
